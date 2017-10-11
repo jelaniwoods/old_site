@@ -3,7 +3,7 @@
 
 .chunk-1 {
 
-  background: url(../assets/children-lined-up.jpg) no-repeat bottom center fixed;
+  background: url(../../assets/children-lined-up.jpg) no-repeat bottom center fixed;
   margin: 0 auto;
   padding-top: 10em;
   /*color: white;*/
@@ -27,7 +27,7 @@
 
 .chunk-6{
   padding-top: 3em;
-  background: url(../assets/student-writing-on-pape.jpg) no-repeat center center fixed;
+  background: url(../../assets/student-writing-on-pape.jpg) no-repeat center center fixed;
   height: 200px;
   color: white;
 }
