@@ -42,6 +42,9 @@
   border-bottom: 2px solid green;
 }
 
+.center-btn{
+  text-align: center;
+}
 .footer {
   background-color: #ecf0f1;
   bottom: 0;
