@@ -1,0 +1,87 @@
+body {
+
+  /*background-color: #18582D;*/
+  background-color: lightblue;
+}
+
+.chunk1 {
+  background-color: white;
+  /*background: url(../../assets/study-group.jpg) no-repeat top center fixed;
+  margin: 0 auto;
+  height: 16em;*/
+}
+
+.btn {
+  border: 1px solid black;
+}
+.container-fluid {
+  padding: 0px;
+}
+
+#buu {
+  /*background-color: gold;*/
+  margin-left: 0 auto;
+  padding: 0px;
+  height: 450px;
+  background: url(../../assets/study-group.jpg) no-repeat top center fixed;
+
+}
+#chunk2 {
+  width: 100vw;
+  background-color: white;
+
+}
+.banner {
+  background: url(../../assets/children-lined-up.jpg) no-repeat center bottom fixed;
+  height: 400px;
+}
+
+#banner-text {
+  text-align: center;
+  padding: 4em;
+  color: #FFDF9E;
+}
+
+.end {
+  text-align: center;
+  padding-top: 2em;
+  padding-bottom: 4em;
+  background-color: lightblue;
+}
+.main-pic {
+  height: 26em;
+  margin: 0 auto;
+  padding-top: 15em;
+  background-color: grey;
+}
+
+.bg {
+  color: #7f8c8d;
+}
+
+.text{
+  background-color: #fff;
+  padding-top: 4em;
+  padding-bottom: 2em;;
+}
+p {
+  padding-bottom: 2em;;
+}
+
+.cfont {
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+}
+
+.rowHeight {
+  height: 500px;
+}
+
+.footer {
+  background-color: #ecf0f1;
+  bottom: 0;
+  /*position: fixed;*/
+  opacity: .9;
+  border-radius: 20px 20px 0px 0px;
+
+}

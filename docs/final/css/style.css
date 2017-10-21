@@ -1,0 +1,108 @@
+
+body {
+  background-color: #8E7EB8;
+}
+
+.purp {
+  background-color: #8E7EB8;
+  padding-top: 2em;
+  padding-bottom: 2em;
+}
+p {
+  text-align: center;
+}
+.chunk15 {
+  background: url(../assets/study-group.jpg) no-repeat top center fixed;
+  padding-bottom: 4em;
+}
+.chunk-1 {
+  /*background-color: blue;*/
+  margin: 0 auto;
+}
+
+.card-title {
+  text-align: center;
+}
+#stripe1 {
+  background-color: #8E7EB8;
+  width: 100vw;
+  padding-top: 2em;
+  padding-bottom: 2em;
+}
+.chunk-2 {
+  background: url(../assets/student-writing-on-pape.jpg) no-repeat top center fixed;
+  margin: 0 auto;
+}
+
+#full-row {
+  width: 100vw;
+}
+.row {
+  width: 84vw;
+  margin: 0 auto;
+}
+.container-fluid {
+  padding: 0;
+}
+.bg {
+  /*opacity: .8;*/
+  color: #7f8c8d;
+}
+
+.cfont {
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+}
+.footer {
+  background-color: #6B7842;
+  bottom: 0;
+  /*position: fixed;*/
+  opacity: .9;
+  co
+  border-radius: 20px 20px 0px 0px;
+
+}
+
+.card-deck {
+   background-color: #8E7EB8
+}
+.card {
+  animation-name: fadeInDown;
+  animation-duration: 3s;
+}
+.border {
+  border: 3px #ecf0f1 solid;
+  padding: 10px 15px;
+  margin: 20px 10px;
+  border-radius: 5px;
+}
+
+#foot {
+  font-size: 18px;
+  padding: 10px;
+  color: #FFDF9E;
+}
+
+.rowHeight {
+  height: 500px;
+}
+
+
+
+@keyframes fadeInDown {
+
+  0% {
+    opacity: 0;
+    transform:translateY(-12%);
+  }
+  25% {
+      opacity: 50%;
+  }
+  50% {
+      transform:translateY(0%);
+  }
+  100% {
+    opacity: 100%;
+  }
+
+}
