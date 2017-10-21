@@ -1,14 +1,23 @@
 
 body {
 
-  background: url(../../assets/wheat.jpg) no-repeat top center fixed;;
+  /*background: url(../../assets/crocus.jpg) no-repeat top center fixed;*/
 
-  /*background-color: black;*/
+  background-color: #0B280C;
 }
 
+.c1 {
+  background: url(../../assets/crocus1.jpg) no-repeat center center fixed;
+}
 
-.chunk1 {
-  /*background: url(../../assets/wheat.jpg) no-repeat top center fixed;;*/
+.c2 {
+  background: url(../../assets/crocus.jpg) no-repeat top center fixed;
+  width: 100vw;
+  padding-bottom: 3em;;
+}
+
+#full-row {
+  width: 100vw;
 }
 .row {
   width: 84vw;
@@ -19,7 +28,7 @@ body {
 }
 
 .card-deck {
-  background-color: #6B7842;
+  background-color: #0B280C;
   /*background-color: ;*/
   padding-bottom: 3em;;
 }
